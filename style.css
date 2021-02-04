@@ -1,0 +1,33 @@
+body {
+    font-family: helvetica;
+    background-color: khaki;
+}
+
+header {
+    width: 50%;
+    margin: auto;
+}
+
+header h1 {
+    text-align: center;
+    border: 1px solid dimgrey;
+    background-color: ivory;
+    border-radius: 5px 15px;
+}
+
+.content {
+    width: 80%;
+}
+
+div {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+div img {
+    width: 100%;
+    border: 2px solid dimgrey;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
